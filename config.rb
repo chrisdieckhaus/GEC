@@ -2,6 +2,11 @@
 # Compass
 ###
 
+activate :relative_assets
+set :relative_links, true
+
+activate :directory_indexes
+
 # Change Compass configuration
 # compass_config do |config|
 #   config.output_style = :compact
@@ -17,7 +22,7 @@
 # page "/path/to/file.html", :layout => false
 #
 # With alternative layout
-# page "/path/to/file.html", :layout => :otherlayout
+
 #
 # A path which all have the same layout
 # with_layout :admin do
@@ -69,4 +74,9 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+end
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.branch = "gh-pages"
 end
