@@ -1,4 +1,4 @@
 gec-mm
 ======
 
-Middleman version of GEC.
+Middleman version of Girls Engineering Change website.
