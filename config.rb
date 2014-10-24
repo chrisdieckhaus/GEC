@@ -7,6 +7,10 @@ set :relative_links, true
 
 activate :directory_indexes
 
+[1, 2, 3,4,5,6,7,8,10,11,12,13].each do |num|
+  proxy "/photos/#{num}.html", "/show.html", :locals => { :photo_num => num }
+end
+
 # Change Compass configuration
 # compass_config do |config|
 #   config.output_style = :compact

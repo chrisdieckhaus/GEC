@@ -1,0 +1,49 @@
+.row{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.small-3.column{
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.small-9.column{
+  padding-left: 0;
+  padding-right: 0;
+  height: 250px;
+  background-color: #829ad6;
+  max-height: 250px;
+  border-radius: 0 4px 4px 0;
+}
+
+.name{
+  height: 50px;
+  background-color: #4a6bc4;
+  text-align: center;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Amaranth', serif;
+  color: white;
+  width: 100%;
+  border-radius: 0 4px 0 0;
+}
+
+.bio{
+  width: 90%;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'PT Sans', sans-serif;
+  color: white;
+  font-size: 17px;
+  text-indent:50px;
+  line-height: 145%;
+}
+
+.row img{
+  border-radius: 4px 0 0 4px;
+}
