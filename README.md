@@ -1,4 +1,4 @@
-All source files for the repository are on this branch.
+All source files for this repository are on this branch.
 
 ### To Deploy
 
