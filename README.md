@@ -1,5 +1,7 @@
 All source files for the repository are on this branch.
 
+Don't touch anything in the '/build' directory. All the files you'll want to edit are under '/source.'
+
 ### To Deploy
 
 1. `rake publish`
