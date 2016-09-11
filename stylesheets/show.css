@@ -1,0 +1,16 @@
+/* line 2, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/show.css.scss */
+.big-front {
+  width: 95%;
+  margin: 10px auto 10px auto;
+  text-align: center;
+  background-color: #ffffff; }
+
+/* line 9, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/show.css.scss */
+.big-pic {
+  display: inline-block;
+  margin: 0;
+  width: 100%; }
+
+/* line 15, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/show.css.scss */
+.big-front img {
+  border-radius: 4px; }

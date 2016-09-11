@@ -1,0 +1,93 @@
+/* line 5, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.picdiv {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto; }
+
+/* line 11, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.pic {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto; }
+
+/* line 20, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.idea {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; }
+
+/* line 26, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.idea div {
+  text-align: center;
+  background-color: #ffffff; }
+
+/* line 31, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.idea p {
+  width: 80%;
+  margin: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  padding-bottom: 15px;
+  font-family: 'Glegoo', serif;
+  font-size: 40px;
+  color: #050b56;
+  text-indent: 20px;
+  line-height: 100%; }
+
+/* line 46, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.oneliner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  padding-bottom: 10px;
+  font-family: 'Amaranth', sans-serif; }
+
+/* line 54, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.oneliner div {
+  text-align: center;
+  background-color: white; }
+
+/* line 59, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.oneliner p {
+  width: 80%;
+  margin: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 40px;
+  font-size: 26px;
+  color: #050b56;
+  text-indent: 20px;
+  line-height: 200%; }
+
+/* line 73, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.maintext {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; }
+
+/* line 79, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.maintext div {
+  text-align: center;
+  background-color: #4a6bc4;
+  opacity: 1; }
+
+/* line 85, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/home.css.scss */
+.maintext p {
+  width: 85%;
+  margin: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'PT Sans', sans-serif;
+  color: white;
+  line-height: 200%;
+  font-size: 18px; }

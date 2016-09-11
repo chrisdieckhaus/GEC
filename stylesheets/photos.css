@@ -1,0 +1,22 @@
+/* line 1, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/photos.css.scss */
+.row img {
+  width: 100%;
+  border-radius: 3px;
+  height: 250px; }
+
+/* line 7, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/photos.css.scss */
+.row {
+  margin-top: 5px;
+  margin-bottom: 5px; }
+
+/* line 12, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/photos.css.scss */
+.small-4.column {
+  padding: 5px; }
+
+/* line 16, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/photos.css.scss */
+#photo a:link {
+  opacity: 1; }
+
+/* line 20, /Users/Karmyn/Dropbox/0_Projects/gec/source/stylesheets/photos.css.scss */
+#photo a:hover {
+  opacity: .73; }
